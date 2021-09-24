@@ -1,1 +1,2 @@
-# ICS4-Blank-Greenfoot-Template
+# Greenfoot Assignment Template
+Starting Template for a Greenfoot Assignment
