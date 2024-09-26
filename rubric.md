@@ -14,7 +14,7 @@ The extra features I included in my program are:
 - c
 - d
 
-## The Program [KA]
+## The Program
 ### Level 3 Requirements
 
 - [ ] “Start Screen” - which provides the users instructions and a button to start the game.
@@ -48,7 +48,7 @@ Overall Program Grade:
 
 
 
-## Project Management [TC]
+## Project Management
 
 ### Project Planning
 - [ ] UML Class Diagrams are fully complete and match the program submitted
